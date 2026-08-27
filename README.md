@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-- I'm a computer Engineering student at TIET, soon to be UNSW.
-- Currently learning Python and c++.
-- Interested in AI/ML, GameDev, Cybersecurity.
-- Working on small basic projects to strengthen skills.
-- How to reach me: [LinkedIn] (https://www.linkedin.com/in/jaskirat-singh-batra-071791233/) | jaskirat.batra13@gmail.com
+I'm a Computer Engineering student transitioning from TIET to UNSW, interested in **software engineering, AI/ML, and computer vision**.
+
+*  Working with **Python, C++, Flask, SQL, NumPy, and PyTorch**
+*  Exploring **machine learning, deep learning, and computer vision**
+*  Building projects to strengthen my software and ML fundamentals
+*  Currently expanding my knowledge of **data structures, algorithms, and deep learning**
+*  Open to **software engineering and ML opportunities**
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/jaskirat-singh-batra-071791233/) · [Email](mailto:jaskirat.batra13@gmail.com)
